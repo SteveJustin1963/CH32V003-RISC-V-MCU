@@ -2,6 +2,10 @@
 
 # CH32V003 RISC-V MCU: Detailed Summary
 
+
+![image](https://github.com/user-attachments/assets/f172da08-f973-4eb4-a55a-bec3734276c0)
+
+
 ## Overview
 The CH32V003 is an ultra-low-cost RISC-V microcontroller (MCU) manufactured by WCH. It offers a compelling combination of performance, features, and affordability, making it suitable for a wide range of embedded applications.
 
